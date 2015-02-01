@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="css/pure-min.css">
+  <meta charset="UTF-8">
+  <title></title>
+  <style type="text/css">
+    #viewport {
+      overflow: hidden;
+    }
+
+    .highlight {
+      fill: blue;
+      opacity: .2;
+    }
+
+    #viewport {
+      background: #DDD;
+    }
+
+    #list {
+      position: fixed;
+      height: 100%;
+      background: linear-gradient(to right, #DDD, white);
+      border-left: 1px solid black;
+    }
+
+    #vessel-name {
+      border-bottom: 1px solid black;
+      height: 25px;
+      padding: 20px;
+      background: #B9CAC4;
+    }
+
+    #vessel-name p {
+      padding: 0;
+      margin: 0;
+      text-align: center;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="pure-g">
+      <div class="pure-u-3-4" id="viewport"></div>
+      <div class="pure-u-1-4" id="list">
+        <div id="vessel-name">
+        </div>
+        <button id="cancel-button" class="pure-button pure-button-active" style="display: none;">Cancel</button>
+      </div>
+  </div>
+  <script src="bundle.js"></script>
+</body>
+</html>

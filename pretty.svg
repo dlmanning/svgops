@@ -1,0 +1,191 @@
+<svg height="792px" version="1.1" width="612px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="outlines" transform="translate(-1750, -2600)scale(7)">
+    <g id="vessel-posterolateral-branch-2">
+      <g class="default">
+        <g class="beta">
+          <path class="beta" d="M294.83408,433.45782c-0.0498,0.23917-0.12784,0.47656-0.2341,0.74219c-0.29999,0.70001-0.01874,0.96915,0.68127,1.06915               c0.5,0.10001,1.05264,0.05011,1.45264,0.4501c0.60001,0.5,0.66611,0.98074,0.46609,1.48074               c-0.19998,0.29999-0.19186,0.4686-0.29187,0.4686c-0.10001,0.20001,0.02628,0.39703,0.32626,0.59702               c0.39999,0.20001,0.66559,0.43439,0.76563,0.73441" fill="none" id="posterolateral-branch-2_2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="alpha">
+          <path d="M297.60001,439.39999c-0.39999-0.5-0.60001-0.60001-1.10001-0.79999c-0.39999-0.10001-0.60001-0.29999-0.70001-0.5               c-0.09998-0.29999,0.10004-0.60001,0.20001-0.70001c0.20001-0.29999,0.39999-0.5,0.39999-0.79999s-0.62427-0.5481-1.02426-0.5481               c-0.53937-0.02167-0.53937-0.02167-0.57574-0.05191c-1.09998-0.29999-1.19998-1.10001-1-2               c0-0.20001,0.10004-0.39999,0.10004-0.60001" fill="none" id="posterolateral-branch-2_1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g class="origin">
+        <g class="beta">
+          <path d="M294.97501,432.52502c-0.05002,0.07501-0.07501,0.17499-0.07501,0.27499c0,0.23438-0.02197,0.44678-0.06592,0.65781" fill="none" id="posterolateral-branch-2_origin_2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="alpha">
+          <path d="M293.90002,433.39999c0.0531-0.26563,0.02158-0.47479-0.07965-0.65753" fill="none" id="posterolateral-branch-2_origin_1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="vessel-posterolateral-branch-1">
+      <g class="default">
+        <g class="alpha">
+          <path d="M293.82037,432.74246c-0.08932-0.16122-0.23288-0.30185-0.42035-0.44247c-0.90002-0.70001-1.5-1.60001-2-2.60001      c-0.40002-0.89999-0.70001-1.79999-1.10004-2.70001c-0.29999-0.79999-0.5-1.60001-0.69998-2.5      c-0.10001-0.5-0.10001-1.10001,0-1.60001c0-1.10001,0.19998-2.20001,0.30002-3.29999c0.09998-0.70001,0.19998-1.29999,0.19998-2      c0-0.60001,0.10001-1.20001,0.10001-1.79999c0-1.10001-0.20001-2.20001-0.60001-3.20001      C289,411.19998,288,410.39996,286.5,409.99997" fill="none" id="posterolateral-branch-1-a1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+          <path data-branch="steve" style="display: none;" d="M294.97501,432.52502l-1.15463,0.21744" fill="none" id="posterolateral-branch-1-a2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+          <path d="M303.10001,439.20001c-0.60001-0.39999-1.14377-0.78751-1.44376-1.38751c-0.10001-0.29999-0.11874-0.28751-0.21875-0.6875      s-0.09064-0.49374-0.39063-0.59375c-0.20001-0.10001-0.44617-0.19962-0.64618-0.29962      C299.9007,436.03162,300,435.5,300.09998,435c0.10004-0.39999,0.12817-0.91251,0.22815-1.3125      c0.03125-0.98749-0.30939-1.5094-1.5-2.09375c-1.20001-0.20001-1.70401,0.00015-2.82813,0.50629      c-0.20001,0.10001-0.5,0.20001-0.79999,0.29999c-0.10001,0-0.17502,0.04999-0.22501,0.125" fill="none" id="posterolateral-branch-1-a3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="beta">
+          <path d="M286.48123,408.83279c0.86252,0.1922,1.66876,0.56717,2.41879,1.16718c1.09998,0.79999,1.59998,2,2,3.20001     c0.39996,1.29999,0.29999,2.60001,0.29999,3.89999c0,1.10001-0.10001,2.20001-0.29999,3.29999     c-0.10004,0.89999-0.20001,1.79999-0.30002,2.70001c-0.10001,1.39999,0.30002,2.60001,0.69998,3.89999     c0.40002,1.10001,0.80002,2.20001,1.30002,3.20001c0.30002,0.5,0.60001,1,1.10001,1.29999     c0.60001,0.39999,1.29999,0.39999,1.89999,0.10001c0.69998-0.29999,1.39999-0.70001,2.10001-0.79999     c0.89999-0.10001,1.89999-0.10001,2.60001,0.60001c0.60001,0.5,1,1.20001,0.89999,1.89999     c0,0.60001,0.03882,0.36258-0.05573,1.27563c-0.0647,0.37527-0.17383,0.99326,0.25574,1.12436     c0.60001,0.10001,1.00623,0.70001,1.00623,1.30002c0,0.5,0.33435,1.10938,1.23438,1.60938" fill="none" id="posterolateral-branch-1_b1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g class="origin">
+        <g class="beta">
+          <path d="M285.07214,408.5563c0.1268,0.0654,0.26871,0.1084,0.52786,0.14368c0.29999,0.02499,0.59375,0.06876,0.88123,0.13281" fill="none" id="posterolateral-branch-1_origin_2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="alpha">
+          <path d="M286.5,409.99997c-0.39322-0.16574-0.80289-0.31284-1.20001-0.10001" fill="none" id="posterolateral-branch-1_origin_1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="vessel-artery-to-AV-node">
+      <g class="default">
+        <g class="beta">
+          <path d="M283.48438,407.96561c-0.14066-0.72186-0.08441-1.41562-0.08441-2.16562c0-0.39999,0-0.70001,0-1.10001" fill="none" id="artery-to-AV-node_2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="alpha">
+          <path d="M284.39999,404.79999c-0.10001,1-0.19998,2,0.10001,3" fill="none" id="artery-to-AV-node_1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g class="origin">
+        <g class="beta">
+          <path d="M283.80301,408.92343c-0.01147-0.09006-0.08115-0.17307-0.10303-0.22345c-0.0947-0.23672-0.16602-0.4798-0.21561-0.73438" fill="none" id="artery-to-AV-node_origin_2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="alpha">
+          <path d="M284.5,407.79999c0.0668,0.40079,0.27658,0.60388,0.57214,0.75632" fill="none" id="artery-to-AV-node_origin_1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="vessel-posterior-descending-2">
+      <g class="default">
+        <g class="beta">
+          <path d="M283.79999,414.79999c0.20001,0.79999,0.60001,1.5,1,2.20001" fill="none" id="posterior-descending-2_2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="alpha">
+          <path d="M284.20001,417.5c-0.5-0.60001-0.70001-1.29999-1-2" fill="none" id="posterior-descending-2_1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g class="origin">
+        <g class="beta">
+          <path d="M283.53391,413.79099c0.07388,0.33633,0.16998,0.67267,0.26608,1.009" fill="none" id="posterior-descending-2_origin_2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="alpha">
+          <path d="M283.20001,415.5c0-0.10001-0.10004-0.10001-0.10004-0.20001c-0.04999-0.14999-0.09998-0.22498-0.16248-0.23749" fill="none" id="posterior-descending-2_origin_1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="vessel-posterior-descending-1">
+      <g class="default">
+        <g class="beta">
+          <path d="M280.56885,418.65912c0.2749,0.77728,0.43115,1.79135,0.43115,2.44089" fill="none" id="posterior-descending-1_2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="alpha">
+          <path d="M279.89999,421.60001c0.10001-1,0-1.60001-0.39999-2.5" fill="none" id="posterior-descending-1_1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g class="origin">
+        <g class="beta">
+          <path d="M280.00006,417.4747c-0.03448,0.10559,0.03558,0.23358,0.19995,0.42529c0.19589,0.23389,0.28427,0.47415,0.36884,0.75912" fill="none" id="posterior-descending-1_origin_2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="alpha">
+          <path d="M279.5,419.10001c-0.23892-0.5575-0.66809-0.79782-1.13602-0.87259" fill="none" id="posterior-descending-1_origin_1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="vessel-acute-marginal">
+      <g class="distal">
+        <g class="beta">
+          <path d="M275.45898,430.03201c0.1463,0.09003,0.29333,0.17935,0.44104,0.26797c1.89996,1.10001,3.69998,2.20001,5.69998,3.20001             c1.30002,0.60001,2.60001,1.29999,4.10001,1.70001" fill="none" id="acute-marginal_distal_2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="alpha">
+          <path d="M285.5,436.10001c-1.29999-0.39999-2.79999-1.10001-3.90002-1.5c-0.79999-0.29999-1.5-0.60001-2.29999-1    c-0.90002-0.5-1.70001-1-2.60001-1.60001c-0.54297-0.35294-1.09332-0.6911-1.64502-1.02658" fill="none" id="acute-marginal_distal_1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g class="mid">
+        <g class="beta">
+          <path d="M267.52951,423.32745c0.43613,0.60886,0.95331,1.1907,1.47049,1.77252c1.97595,1.88184,4.12894,3.49808,6.45898,4.93204" fill="none" id="acute-marginal_mid_2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="alpha">
+          <path d="M275.05496,430.97342c-1.48047-0.90015-2.97079-1.78064-4.35498-2.87341C269.29999,427,267.89999,426,266.79999,424.70001    c-0.13281-0.15936-0.26563-0.31876-0.39468-0.48001" fill="none" id="acute-marginal_mid_1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g class="proximal">
+        <g class="beta">
+          <path d="M264.85968,414.93683c-0.01117,0.45438,0.06458,0.90878,0.14032,1.36316c0.10001,1.20001,0.39999,2.39999,0.79999,3.60001             c0.30002,0.89999,0.70001,1.60001,1.10004,2.39999c0.17676,0.35352,0.39099,0.69452,0.62949,1.02747" fill="none" id="acute-marginal_proximal_2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="alpha">
+          <path d="M266.4053,424.22c-0.35684-0.4458-0.685-0.90591-0.9053-1.41998c-0.5-0.89999-0.90002-1.5-1.30002-2.60001    C263.89996,419.30002,263.5,417.5,263.5,417.10001c0-0.89999-0.10004-2.29999,0-2.89999" fill="none" id="acute-marginal_proximal_1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g class="origin">
+        <g class="beta">
+          <path d="M265.10001,414c-0.125,0.07501-0.20001,0.25-0.20001,0.5c-0.02426,0.1456-0.03677,0.2912-0.04031,0.43683" fill="none" id="acute-marginal_origin_2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="alpha">
+          <path d="M263.5,414.20001c0.15781-0.71014,0.08936-1.34299-0.13605-1.99283" fill="none" id="acute-marginal_origin_1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="vessel-artery-to-SA-node">
+      <g class="default">
+        <g class="beta">
+          <path d="M273.04132,377.17566c-0.12299-0.12491-0.24075-0.21881-0.34131-0.27563c-0.4725-0.44073-0.67929-0.53067-1.10004-0.60004             c-0.59998-0.19998-0.89996-0.09998-1.19998,0.30002c-0.10001,0.19998-0.19998,0.39999-0.30002,0.60001" fill="none" id="artery-to-sa-node_proximal_2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="alpha">
+          <path d="M269.40002,377.20001c0.09998-0.20001,0.09998-0.29999,0.19998-0.5C269.89999,375.5,271,375.29999,272,375.60001    c0.6293,0.20975,1.30746,0.76175,1.86365,1.27997" fill="none" id="artery-to-sa-node_proximal_1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g class="origin">
+        <g class="beta">
+          <path d="M273.5,377.79999c-0.17343-0.28906-0.31345-0.47784-0.45868-0.62433" fill="none" id="artery-to-SA-node_origin_2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="alpha">
+          <path d="M273.86365,376.87997c0.23923,0.2229,0.45587,0.43954,0.63635,0.62003" fill="none" id="artery-to-SA-node_origin_1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="vessel-rt-coronary">
+      <g class="distal">
+        <g class="alpha">
+          <path data-branch="steve" style="display: none;" d="M265.10001,414l-1.73605-1.79282" fill="none" id="rt-coronary-distal-a1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+          <path d="M278.36398,418.22742c-0.1521-0.07239-2.76767-0.03348-3.96399-0.22742c-2.80002-0.39999-5.30002-1.60001-7.60001-3    c-0.39999-0.29999-0.88943-0.50812-1.20001-0.89999c-0.15356-0.19376-0.34332-0.2048-0.49997-0.10001" fill="none" id="rt-coronary-distal-a2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+          <path data-branch="steve" style="display: none;" d="M280.00006,417.4747l-1.63608,0.75272" fill="none" id="rt-coronary-distal-a3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+          <path d="M282.9375,415.0625c-0.0625-0.01251-0.13751,0.03748-0.23749,0.13748c-0.20001,0.20001-0.30002,0.5-0.5,0.70001    c-0.40002,0.70001-1.10004,1-1.80002,1.29999c-0.24976,0.09991-0.39993,0.27472-0.39993,0.27472" fill="none" id="rt-coronary-distal-a4" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+          <path data-branch="steve" style="display: none;" d="M283.53391,413.79099l-0.59641,1.27151" fill="none" id="rt-coronary-distal-a5" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+          <path d="M285.29999,409.89996c-0.5,0.10001-0.89996,0.29999-1.09998,0.70001c-0.40002,0.70001-0.80002,1.39999-0.80002,2.10001    c0,0.36368,0.05399,0.72736,0.13391,1.091" fill="none" id="rt-coronary-distal-a6" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="beta">
+          <path d="M265.39279,411.89719c0.21521,0.28003,0.45096,0.54654,0.70718,0.8028c1,1.10001,2.40002,1.79999,3.70001,2.5    s2.70001,1,4.10001,1.39999s2.89999,0.39999,4.39999,0.29999c0.70001-0.10001,1.29999-0.29999,2-0.79999    c0.29999-0.20001,0.70001-0.60001,1-0.79999c0.79999-0.89999,0.79999-1.70001,0.89999-2.70001    c0.10001-0.79999,0.10001-1.5,0.5-2.20001c0.19998-0.39999,0.5-0.70001,0.80002-0.89999    c0.22299-0.14868,0.33014-0.35263,0.30374-0.57074" fill="none" id="rt-coronary-distal-b1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+          <path data-branch="steve" style="display: none;" d="M283.80374,408.92923c-0.00024-0.00195-0.00049-0.00388-0.00073-0.0058l1.26913-0.36713" fill="none" id="rt-coronary-distal-b2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g class="mid">
+        <g class="alpha">
+          <path d="M263.36395,412.20718c-0.03802-0.10962-0.15387-0.13846-0.3327-0.44156c-0.29999-0.30002-0.43127-0.76563-0.63126-1.16562     C262,409.80002,261.79999,409,261.59998,408.20001c-0.29999-0.89999-0.59998-1.89999-0.79999-2.79999     c-0.09998-0.79999-0.09998-1.60001-0.20001-2.39999c-0.09998-1.5-0.09998-2.89999-0.09998-4.39999     c0-0.90002,0.09998-1.80002,0.09998-2.70001c0-0.59998,0.10004-1.19998,0.10004-1.79999     c0.05316-0.42551,0.10635-0.87927,0.15955-1.34628" fill="none" id="rt-coronary-mid-a1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="beta">
+          <path d="M262.96014,393.02832c-0.10605,0.80646-0.20087,1.66183-0.26013,2.37167C262.70001,396,262.5,400,262.59998,401.5     c0.10004,1.89999,0.20001,3.70001,0.80002,5.5c0.30002,1,0.60001,1.89999,0.89999,2.89999     c0.38391,0.94382,0.74725,1.59753,1.0928,1.99719" fill="none" id="rt-coronary-mid-b1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g class="proximal">
+        <g class="alpha">
+          <path d="M274.5,377.5L274.5,377.5c0.10001,0,1-0.10001,1.10001-0.10001c0.6568,0,1.62161,0,2.52484,0" fill="none" id="rt-coronary-proximal-a1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+          <path data-branch="steve" style="display: none;" d="M273.5,377.79999l1-0.29999" fill="none" id="rt-coronary-proximal-a2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+          <path d="M260.85956,392.75375c0.04681-0.41107,0.09363-0.8324,0.14044-1.25372c0.29999-1.39999,0.59998-2.80002,1.20001-4.10001    c0.79999-1.70001,2-3.10004,3.19998-4.5c1.30002-1.40002,2.89999-2.60004,4.60001-3.5    c1.20001-0.60004,2.29999-1.10004,3.5-1.60004" fill="none" id="rt-coronary-proximal-a3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="beta">
+          <path d="M278.20001,379.77618c-1.80939,0.12381-3,0.32382-4.30002,0.62384c-2,0.59998-3.80002,1.5-5.30002,2.79999     C267,384.60001,265.5,386,264.39999,388c-0.60001,1.10001-0.89999,2.20001-1.19998,3.39999     c-0.08713,0.50873-0.17374,1.08344-0.23987,1.62833" fill="none" id="rt-coronary-proximal-b1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g class="origin">
+        <g class="beta">
+          <path d="M279.79999,379.79999c-0.59998,0-0.89999-0.12381-1.59998-0.0238" fill="none" id="rt-coronary_origin_2" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <g class="alpha">
+          <path d="M279.5,377.39999c-0.39209,0-0.87311,0-1.37515,0" fill="none" id="rt-coronary_origin_1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="clickable" transform="translate(-1750, -2600)scale(7)"></g>
+</svg>
