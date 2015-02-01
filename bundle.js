@@ -425,7 +425,7 @@ function main (svgRoot) {
   var vesselNameDisplay = document.getElementById('vessel-name');
 
   state.on('new.selection', function (vessel, node) {
-    vesselNameDisplay.innerHTML = `<p>${vessel.vesselName} - ${vessel.hotSpot}</p>`
+    vesselNameDisplay.innerHTML = "<p>" + vessel.vesselName + "-" + vessel.hotSpot + "</p>";
     node.classList.add('highlight');
   });
 
